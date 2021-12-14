@@ -13,13 +13,13 @@
   
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/ErmiasTsege/Scooter_Project.git"
+      "url": "git+https://github.com/nabea1/scooter.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/ErmiasTsege/Scooter_Project/issues"
+      "url": "https://github.com/nabea1/scooter/issues"
     },
-    "homepage": "https://github.com/ErmiasTsege/Scooter_Project#readme"
+    "homepage": "https://github.com/nabea1/scooter#readme"
   }
